@@ -1,5 +1,8 @@
 _repo: The-Little-Pets-of-Arkkhan_64363
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64363-h/images/cover.jpg
 creator:
   author:
     agent_name: Garson, Bill
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '33727'
     url: http://www.gutenberg.org/2009/agents/33727
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64363#The-Little-Pets-of-Arkkhan
 gutenberg_issued: '2021-01-21'
 gutenberg_type: Text
 identifiers:
